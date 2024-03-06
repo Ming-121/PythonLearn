@@ -16,4 +16,4 @@ from support import*
 log('from...import* 导入')
 log1('from...import* 导入')
 
-
+print(dir(support))
